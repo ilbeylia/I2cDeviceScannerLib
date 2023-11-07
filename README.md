@@ -4,7 +4,7 @@ This Library scans for I2C devices connected to the bus and prints their address
 
 ## How to Use
 
-1. Upload the `I2C_Device_Scanner.ino` sketch to your Arduino board.
+1. Upload the I2C Device Scanner Lib to your board.
 2. Open the Serial Monitor (Tools -> Serial Monitor) to view the I2C addresses found.
 
 ## Requirements
